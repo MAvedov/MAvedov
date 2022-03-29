@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MAvedov
+- 👀 I’m interested in sports, economy, music and travel
+- 🌱 I’m currently learning Machine Learning, Python and libraries.
+- 📫 How to reach me insta - m.avedov
